@@ -19,7 +19,7 @@ Test.prototype = {
 	},
 
 	get2:function(){
-		return 'My Test';
+		return 'Test';
 	}
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
